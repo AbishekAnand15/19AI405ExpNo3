@@ -67,6 +67,10 @@ Now, Queue becomes empty, So, terminate these process of iteration.
 
 </ol>
 
+```
+Developed by: Abishek Xavier A
+RegisterNumber: 212222230004
+```
 <hr>
 <h3>Sample Input</h3>
 <hr>
